@@ -1,4 +1,4 @@
-# AXIE para Claude
+# AXIE | Minerador Ofertas Ocultas
 
 **Encuentra ofertas que están funcionando y keywords nuevas en la Biblioteca de Anuncios de Meta, solo pidiéndoselo a Claude.**
 
@@ -8,37 +8,46 @@ AXIE abre la Biblioteca de Anuncios en tu Chrome, recolecta los anuncios y Claud
 
 ---
 
-## ⬇️ Descargar
+## ⬇️ Dónde está todo: ASTA
 
-**[Descargar la última versión de AXIE](../../releases/latest)** → baja el archivo `AXIE-MCP-V….zip` y descomprímelo.
+Entra a tu área de miembro **[ASTA](https://asta.spaceblack.lat/)**. En **Mis apps** encontrarás:
+- el **instalador** de AXIE,
+- el **tutorial**,
+- tu **licencia**.
 
-Necesitas:
-- Una **licencia de AXIE** (correo + código).
-- **Google Chrome** con tu Facebook iniciado.
-- **Claude de escritorio**: [claude.ai/download](https://claude.ai/download).
+Necesitas también **Google Chrome** (con tu Facebook iniciado) y **Claude de escritorio**: [claude.ai/download](https://claude.ai/download).
 
 ## 🛠️ Instalar (5 minutos, una sola vez)
 
 ### 1. AXIE en Chrome
-1. Copia la carpeta `AXIE-MCP-V…` a tus **Documentos** (no la borres después).
-2. En Chrome escribe en la barra: `chrome://extensions`
-3. Activa **Modo de desarrollador** (arriba a la derecha).
-4. Pulsa **Cargar extensión sin empaquetar** y elige esa carpeta.
+1. Descarga el instalador desde ASTA → **Mis apps** y descomprímelo.
+2. Copia la carpeta `AXIE-MCP-V…` a tus **Documentos** (no la borres después).
+3. En Chrome escribe en la barra: `chrome://extensions`
+4. Activa **Modo de desarrollador** (arriba a la derecha).
+5. Pulsa **Cargar extensión sin empaquetar** y elige esa carpeta.
 
 ### 2. Activa tu licencia
-Se abre sola la página **"Conecta AXIE con Claude"**. Escribe tu correo y tu código de licencia y pulsa **Activar**.
+Al cargar AXIE en Chrome se abre la página **"Conecta AXIE con Claude"** y te pide tu **correo + licencia**.
 
-### 3. AXIE en Claude
-1. Abre Claude de escritorio → **Configuración → Extensiones**.
-2. Arrastra ahí el archivo que termina en **`.mcpb`** y pulsa **Instalar**.
-3. Cierra Claude por completo (clic derecho en su ícono junto al reloj → **Salir**) y ábrelo de nuevo.
-4. En la página "Conecta AXIE con Claude" verás la **luz verde**.
+> ⚠️ **Importante:** usa **exactamente el mismo correo y la misma licencia** que aparecen en ASTA → **Mis apps**. Si usas otro correo, AXIE no se activará.
 
-### 4. (Opcional) Skill de AXIE
-Claude → **Configuración → Capacidades → Skills → Subir skill** → elige el archivo `…-skill.zip`. Le enseña a Claude a analizar mejor.
+### 3. AXIE en Claude (solo copiar y pegar)
+1. Abre Claude de escritorio y entra a **Plugins**.
+2. Pulsa **Agregar** → **Agregar marketplace**.
+3. Pega esto y confirma:
+   ```
+   tech343232/axie-mcp
+   ```
+4. Instala **AXIE** desde ese marketplace.
+5. Cierra Claude por completo (clic derecho en su ícono junto al reloj → **Salir**) y ábrelo de nuevo.
+
+En la página "Conecta AXIE con Claude" verás la **luz verde** cuando todo esté listo.
+
+> ¿Usas Claude Code? También puedes instalarlo en un paso escribiendo en una sesión:
+> `/plugin install axie --marketplace tech343232/axie-mcp`
 
 ## 💬 Usar
-En Claude, modo **Chat**, conversación nueva:
+En Claude abre una sesión nueva de **Cowork** o de **Code** en **Esta computadora** y pídele, por ejemplo:
 - "Revisa el estado de AXIE"
 - "Búscame páginas de venta de productos para adelgazar en Brasil"
 - "Dame keywords nuevas del nicho de perros en México"
@@ -46,9 +55,7 @@ En Claude, modo **Chat**, conversación nueva:
 Deja Chrome abierto. Cuando Claude pida algo, AXIE abre su propia ventana: **no la cierres ni la minimices** mientras trabaja.
 
 ## ❓ Ayuda
-- **Claude dice que AXIE no está conectada** → abre Chrome, revisa que AXIE esté activada en `chrome://extensions` y reinicia Claude por completo.
-- **Claude dice que falta la licencia** → abre la página "Conecta AXIE con Claude" (botón **Claude** en el panel de AXIE) y actívala.
-- **Soporte**: [escríbenos por WhatsApp](https://wa.link/wixvib).
+Cualquier duda o problema técnico: escribe al **soporte dentro de ASTA** → **[asta.spaceblack.lat/alumno/soporte](https://asta.spaceblack.lat/alumno/soporte)**.
 
 ---
 AXIE · by Eber Denilson · SPACE BLACK®

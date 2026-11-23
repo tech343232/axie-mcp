@@ -1,0 +1,11 @@
+{
+  "name": "axie",
+  "version": "3.2.3",
+  "description": "AXIE | Minerador Ofertas Ocultas — Loot (páginas de venta) y Sweep (keywords) en la Biblioteca de Anuncios de Meta, usando la extensión AXIE de Chrome.",
+  "author": {
+    "name": "SPACE BLACK"
+  },
+  "homepage": "https://asta.spaceblack.lat/",
+  "icon": "./.claude-plugin/icon.png",
+  "mcpServers": "./servers/axie.mcpb"
+}
