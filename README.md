@@ -1,10 +1,15 @@
 # AXIE | Minerador Ofertas Ocultas
 
-**Encuentra ofertas que están funcionando y keywords nuevas en la Biblioteca de Anuncios de Meta, solo pidiéndoselo a Claude.**
+**Encuentra ofertas ocultas que están funcionando y que NADIE está explotando. Solo tienes que pedírselo a Claude y AXIE hace el trabajo de espiar.**
+
+Basta con decirle a Claude:
 
 > "Búscame páginas de venta de productos para adelgazar en Brasil"
 
-AXIE abre la Biblioteca de Anuncios en tu Chrome, recolecta los anuncios y Claude te entrega el resultado ya analizado: qué anunciantes repiten más, en qué plataformas venden y qué revisar primero. Todo corre en tu computadora.
+Luego AXIE abre la Biblioteca de Anuncios en tu Chrome y comienza a investigar y analizar lo que está funcionando. Tú solo tienes que esperar: en unos minutos te entrega todos los resultados para que solo elijas qué oferta quieres modelar.
+
+💻 **Todo funciona en tu computadora**: no necesitas pagar APIs extra.
+💳 **Solo necesitas tu membresía de Claude**, y tampoco hace falta la más cara: basta con la de **$20 USD**.
 
 ---
 
