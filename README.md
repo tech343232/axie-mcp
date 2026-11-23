@@ -39,13 +39,14 @@ Al cargar AXIE en Chrome se abre la página **"Conecta AXIE con Claude"** y te p
 
 ### 3. AXIE en Claude (solo copiar y pegar)
 1. Abre Claude de escritorio y entra a **Plugins**.
-2. Pulsa **Agregar** → **Agregar marketplace**.
-3. Pega esto y confirma:
+2. Pulsa **Agregar** → **Agregar marketplace** → **Agregar desde un repositorio**.
+3. En **URL** pega esto y pulsa **Sincronizar**:
    ```
    tech343232/axie-mcp
    ```
-4. Instala **AXIE** desde ese marketplace.
-5. Cierra Claude por completo (clic derecho en su ícono junto al reloj → **Salir**) y ábrelo de nuevo.
+4. Aparece **AXIE | Minerador Ofertas Ocultas**: pulsa **Agregar a esta computadora**.
+5. Claude te avisa que el complemento ejecuta código en tu computadora: pulsa **Continuar**.
+6. Cierra Claude por completo (clic derecho en su ícono junto al reloj → **Salir**) y ábrelo de nuevo.
 
 En la página "Conecta AXIE con Claude" verás la **luz verde** cuando todo esté listo.
 

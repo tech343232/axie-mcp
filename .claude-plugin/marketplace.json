@@ -4,14 +4,15 @@
     "name": "SPACE BLACK"
   },
   "metadata": {
-    "description": "AXIE | Minerador Ofertas Ocultas — para alumnos de ASTA."
+    "description": "AXIE | Minerador Ofertas Ocultas — En cuestión de minutos tendrás ofertas Winner."
   },
   "plugins": [
     {
       "name": "axie",
+      "displayName": "AXIE | Minerador Ofertas Ocultas",
       "source": "./plugins/axie",
-      "description": "AXIE | Minerador Ofertas Ocultas: encuentra ofertas que funcionan y keywords en la Biblioteca de Anuncios de Meta (requiere la extensión AXIE y licencia de ASTA).",
-      "version": "3.2.3"
+      "description": "En cuestión de minutos tendrás ofertas Winner.",
+      "version": "3.2.4"
     }
   ]
 }

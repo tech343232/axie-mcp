@@ -1,7 +1,8 @@
 {
   "name": "axie",
-  "version": "3.2.3",
-  "description": "AXIE | Minerador Ofertas Ocultas — Loot (páginas de venta) y Sweep (keywords) en la Biblioteca de Anuncios de Meta, usando la extensión AXIE de Chrome.",
+  "displayName": "AXIE | Minerador Ofertas Ocultas",
+  "version": "3.2.4",
+  "description": "En cuestión de minutos tendrás ofertas Winner.",
   "author": {
     "name": "SPACE BLACK"
   },
