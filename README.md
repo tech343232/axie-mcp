@@ -9,6 +9,7 @@ Basta con decirle a Claude:
 Luego AXIE abre la Biblioteca de Anuncios en tu Chrome y comienza a investigar y analizar lo que está funcionando. Tú solo tienes que esperar: en unos minutos te entrega todos los resultados para que solo elijas qué oferta quieres modelar.
 
 💻 **Todo funciona en tu computadora**: no necesitas pagar APIs extra.
+
 💳 **Solo necesitas tu membresía de Claude**, y tampoco hace falta la más cara: basta con la de **$20 USD**.
 
 ---
