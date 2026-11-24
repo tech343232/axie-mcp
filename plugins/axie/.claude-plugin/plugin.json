@@ -1,12 +1,11 @@
 {
   "name": "axie",
   "displayName": "AXIE | Minerador Ofertas Ocultas",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "description": "En cuestión de minutos tendrás ofertas Winner.",
   "author": {
     "name": "SPACE BLACK"
   },
   "homepage": "https://asta.spaceblack.lat/",
-  "icon": "./.claude-plugin/icon.png",
   "mcpServers": "./servers/axie.mcpb"
 }
