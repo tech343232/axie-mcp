@@ -59,6 +59,8 @@ En Claude abre una sesión nueva de **Cowork** o de **Code** en **Esta computado
 - "Búscame páginas de venta de productos para adelgazar en Brasil"
 - "Dame keywords nuevas del nicho de perros en México"
 
+La primera vez, Claude te pedirá permiso para usar AXIE: elige **“Permitir siempre”** en cada herramienta de AXIE y no te lo volverá a preguntar.
+
 Deja Chrome abierto. Cuando Claude pida algo, AXIE abre su propia ventana: **no la cierres ni la minimices** mientras trabaja.
 
 ## ❓ Ayuda
