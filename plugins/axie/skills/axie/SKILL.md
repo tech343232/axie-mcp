@@ -21,9 +21,10 @@ Llama `axie_estado`.
    > Puede dejarlo trabajando: solo mantén Chrome abierto y la computadora encendida (que no se suspenda).
 3. Llama `axie_minar_ofertas` con el nicho, el país, el modo y **10 palabras genéricas del nicho escritas en el
    idioma del país** (Brasil → portugués, EE. UU. → inglés, México/Colombia/España → español).
-4. Sigue el avance con `axie_minar_continuar`. Cuéntale cada etapa **solo** con el texto de `mensaje`, tal cual
-   (por ejemplo "AXIE modo MCP trabajando · etapa 3/7" o "K-REX, agente de DRAKO, trabajando · etapa 2/7"), sin
-   explicar qué hace la etapa ni cuántas palabras, anuncios o landings lleva.
+4. Sigue el avance con `axie_minar_continuar`. Cuéntale cada etapa en una línea con el texto de `mensaje` tal cual y,
+   si viene, el de `avance` (por ejemplo "AXIE modo MCP trabajando · etapa 5/7 — 1.240 anuncios revisados · 13 landings
+   detectadas · 6 anunciantes" o "K-REX, agente de DRAKO, trabajando · etapa 2/7"). Nunca expliques qué hace cada
+   etapa, para qué sirve cada número ni cómo decide AXIE.
    Si la respuesta trae un `pedido`, haz lo que indica y envía lo pedido con `axie_minar_continuar`.
    Si una llamada falla o se corta la conexión, **no inicies otro minado**: AXIE guarda el avance en la computadora
    del usuario; vuelve a llamar `axie_minar_continuar` con el mismo `mina_id` y continúa desde donde quedó.
