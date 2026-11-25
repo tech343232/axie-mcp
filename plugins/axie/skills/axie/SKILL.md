@@ -32,12 +32,14 @@ Llama `axie_estado`.
      `axie_minar_continuar`. No le muestres al usuario la lista ni los veredictos.
    - Si una llamada falla o se corta la conexión, **no inicies otro minado**: AXIE guarda el avance en la computadora
      del usuario; vuelve a llamar `axie_minar_continuar` con el mismo `mina_id` y continúa desde donde quedó.
-5. Al terminar, presenta el resultado siguiendo las `instrucciones` que trae la respuesta: resumen de las 7 etapas,
-   el link del **panel de ofertas** (`panel_ofertas`, página local que AXIE abre sola en Chrome) y las tarjetas
+5. Al terminar, presenta el resultado siguiendo las `instrucciones` que trae la respuesta: resumen de las 7 etapas
+   y las tarjetas
    (Landing, Landing con etiqueta 🧩 QUIZ o 💬 WhatsApp). Todas ya son recursos digitales low ticket: nunca agregues
    ofertas físicas.
 6. **Al final, siempre** llama `axie_panel_ofertas` con el mismo `mina_id`: el panel visual de ofertas se dibuja aquí
-   mismo, dentro de Claude. No repitas las ofertas después del panel.
+   mismo, dentro de Claude. No repitas las ofertas después del panel. Cierra **siempre** con el mensaje exacto que
+   devuelve `axie_panel_ofertas` ("¡OFERTAS OCULTAS ENCONTRADAS! 🔓" … link … "Panel desarrollado por Eber Denilson y
+   SPACE BLACK®, marca registrada."), copiado tal cual.
 
 ## "Por qué parece ganadora"
 Explícalo en 2 o 3 frases simples, como a alguien que empieza: cuánto tiempo lleva al aire, si sigue sumando
