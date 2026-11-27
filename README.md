@@ -1,4 +1,4 @@
-<p align="center"><img src="marca/logo-horizontal-oscuro.png" alt="CONNECTED | MULTI-APPS" width="620"></p>
+<p align="center"><img src="marca/logo-animado-readme.svg" alt="CONNECTED® | MULTI-APPS" width="100%"></p>
 
 # CONNECTED | MULTI-APPS
 
