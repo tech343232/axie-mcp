@@ -1,6 +1,6 @@
 ---
 name: axie
-description: Cómo atender pedidos de AXIE | Minerador Ofertas Ocultas (extensión AXIE de Chrome + herramientas axie_*). Úsala SIEMPRE que el usuario pida buscar ofertas, ofertas winner, páginas de venta, TSL, landings, anunciantes, nichos o palabras clave de anuncios, o mencione AXIE.
+description: Cómo atender pedidos de AXIE | Minerador Ofertas Ocultas (AXIE va dentro de la extensión Multi-apps de Chrome + herramientas axie_*). Úsala SIEMPRE que el usuario pida buscar ofertas, ofertas winner, páginas de venta, TSL, landings, anunciantes, nichos o palabras clave de anuncios, o mencione AXIE.
 ---
 
 # AXIE | Minerador Ofertas Ocultas
@@ -64,8 +64,12 @@ por el usuario (encontrar ofertas ocultas que funcionan, descubrir keywords de u
 - Solo keywords o entender un nicho → `axie_sweep`.
 - Páginas de venta de una palabra puntual → `axie_loot`.
 - Clonar una oferta del panel (el usuario también puede tocar **CLONAR OFERTA** en el panel) → `axie_clonar` con el
-  `mina_id`, el id de la oferta y la opción que pida; sigue el avance con `axie_clonar_estado`. Habla solo de AXIE,
-  DRUKY, FINIX, DUMO y BOKER: nunca nombres motores ni herramientas internas.
+  `mina_id`, el id de la oferta y la opción que pida; sigue el avance con `axie_clonar_estado`. El clon lo hace
+  **Multi-apps** (DUMO, BOKER, DRUKY y FINIX): si no está instalado, el mensaje que devuelve explica qué falta. Si la
+  opción lleva PDFs, pregúntale qué tipo de oferta es — **PDF informativo** (su cliente lo lee: guías, recetarios) o
+  **PDF dinámico** (lo imprime, recorta y arma: tarjetas, moldes) — y pásalo en `tipo_pdf`. Al terminar, comparte los
+  enlaces que trae (landing, ZIP, hoja de copy, PDF). Habla solo de AXIE, DRUKY, FINIX, DUMO y BOKER: nunca nombres
+  motores ni herramientas internas.
 
 ## Si algo falla
 - Pídele no cerrar ni minimizar la ventana de AXIE mientras trabaja.

@@ -1,70 +1,53 @@
-# AXIE | Minerador Ofertas Ocultas
+<p align="center"><img src="marca/logo-horizontal-oscuro.png" alt="CONNECTED | MULTI-APPS" width="620"></p>
 
-**Encuentra ofertas ocultas que están funcionando y que NADIE está explotando. Solo tienes que pedírselo a Claude y AXIE hace el trabajo de espiar.**
+# CONNECTED | MULTI-APPS
 
-Basta con decirle a Claude:
+Con solo un botón podrás encontrar ofertas ultra winners, diseñar tus PDFs anti-reembolsos, redactar flujos y generar landings. ¡TODO automatizado usando las apps de SPACE BLACK!
 
-> "Búscame páginas de venta de productos para adelgazar en Brasil"
+## ⚔️ Tu arsenal: 6 armas que funcionan juntas o por separado
 
-Luego AXIE abre la Biblioteca de Anuncios en tu Chrome y comienza a investigar y analizar lo que está funcionando. Tú solo tienes que esperar: en unos minutos te entrega todos los resultados para que solo elijas qué oferta quieres modelar.
+**Combinado** — una sola orden hace todo el proceso:
 
-💻 **Todo funciona en tu computadora**: no necesitas pagar APIs extra.
+| Arma | Qué hace |
+|---|---|
+| **/multiapps** | AXIE encuentra la oferta ganadora y el arsenal la clona completa: landing, PDFs y flujo de WhatsApp. |
 
-💳 **Solo necesitas tu membresía de Claude**, y tampoco hace falta la más cara: basta con la de **$20 USD**.
+**Individual** — usa cada app con tu propio enlace:
 
----
+| Arma | App | Qué hace |
+|---|---|---|
+| **/axie** | AXIE | Busca ofertas ocultas que están funcionando. |
+| **/dumo** | DUMO | Clona landings escaladas y las deja en español. |
+| **/boker** | BOKER | Diseña PDFs dopamínicos anti-reembolsos. |
+| **/druky** | DRUKY | Revela el WhatsApp del anunciante. |
+| **/finix** | FINIX | Entra y replica el flujo de venta. |
 
-## ⬇️ Dónde está todo: ASTA
+💻 Todo funciona en tu computadora: no necesitas pagar APIs extra.
 
-Entra a tu área de miembro **[ASTA](https://asta.spaceblack.lat/)**. En **Mis apps** encontrarás:
-- el **instalador** de AXIE,
-- el **tutorial**,
-- tu **licencia**.
+## ⬇️ Instalador, tutorial y licencia: ASTA
+Entra a **[ASTA](https://asta.spaceblack.lat/)** → **Mis apps**. Descarga el instalador (Windows o Mac), descomprímelo y
+sigue **LEEME-PRIMERO.txt**: trae la extensión de Chrome de Multi-apps (con AXIE adentro) y la app BOKER.
 
-Necesitas también **Google Chrome** (con tu Facebook iniciado) y **Claude de escritorio**: [claude.ai/download](https://claude.ai/download).
-
-## 🛠️ Instalar (5 minutos, una sola vez)
-
-### 1. AXIE en Chrome
-1. Descarga el instalador desde ASTA → **Mis apps** y descomprímelo.
-2. Copia la carpeta `AXIE-MCP-V…` a tus **Documentos** (no la borres después).
-3. En Chrome escribe en la barra: `chrome://extensions`
-4. Activa **Modo de desarrollador** (arriba a la derecha).
-5. Pulsa **Cargar extensión sin empaquetar** y elige esa carpeta.
-
-### 2. Activa tu licencia
-Al cargar AXIE en Chrome se abre la página **"Conecta AXIE con Claude"** y te pide tu **correo + licencia**.
-
-> ⚠️ **Importante:** usa **exactamente el mismo correo y la misma licencia** que aparecen en ASTA → **Mis apps**. Si usas otro correo, AXIE no se activará.
-
-### 3. AXIE en Claude (solo copiar y pegar)
-1. Abre Claude de escritorio y entra a **Plugins**.
-2. Pulsa **Agregar** → **Agregar marketplace** → **Agregar desde un repositorio**.
-3. En **URL** pega esto y pulsa **Sincronizar**:
+## 🧩 En Claude (copiar y pegar)
+1. Claude de escritorio → **Plugins** → **Agregar** → **Agregar marketplace** → **Agregar desde un repositorio**.
+2. En **URL** pega esto y pulsa **Sincronizar**:
    ```
-   tech343232/axie-mcp
+   tech343232/multi-apps
    ```
-4. Aparece **AXIE | Minerador Ofertas Ocultas**: pulsa **Agregar a esta computadora**.
-5. Claude te avisa que el complemento ejecuta código en tu computadora: pulsa **Continuar**.
-6. Cierra Claude por completo (clic derecho en su ícono junto al reloj → **Salir**) y ábrelo de nuevo.
-
-En la página "Conecta AXIE con Claude" verás la **luz verde** cuando todo esté listo.
+3. En **CONNECTED | MULTI-APPS** pulsa **Agregar a esta computadora**.
+4. Claude avisa que el complemento ejecuta código en tu computadora: pulsa **Continuar**.
+5. Cierra Claude por completo y ábrelo de nuevo.
 
 > ¿Usas Claude Code? También puedes instalarlo en un paso escribiendo en una sesión:
-> `/plugin install axie --marketplace tech343232/axie-mcp`
+> `/plugin install multiapps --marketplace tech343232/multi-apps`
+
+> ¿Tenías **AXIE** en Claude de antes? Quítalo (Plugins → AXIE → Quitar): ahora viene dentro de Multi-apps.
 
 ## 💬 Usar
-En Claude abre una sesión nueva de **Cowork** o de **Code** en **Esta computadora** y pídele, por ejemplo:
-- "Revisa el estado de AXIE"
-- "Búscame páginas de venta de productos para adelgazar en Brasil"
-- "Dame keywords nuevas del nicho de perros en México"
-
-La primera vez, Claude te pedirá permiso para usar AXIE: elige **“Permitir siempre”** en cada herramienta de AXIE y no te lo volverá a preguntar.
-
-Deja Chrome abierto. Cuando Claude pida algo, AXIE abre su propia ventana: **no la cierres ni la minimices** mientras trabaja.
+En una sesión de **Cowork** o **Code** en **Esta computadora**, escribe `/` y elige tu arma.
 
 ## ❓ Ayuda
-Cualquier duda o problema técnico: escribe al **soporte dentro de ASTA** → **[asta.spaceblack.lat/alumno/soporte](https://asta.spaceblack.lat/alumno/soporte)**.
+Soporte dentro de ASTA → **[asta.spaceblack.lat/alumno/soporte](https://asta.spaceblack.lat/alumno/soporte)**.
 
 ---
-AXIE · by Eber Denilson · SPACE BLACK®
+CONNECTED® | MULTI-APPS · Hecho por Eber Denilson y SPACE BLACK®.

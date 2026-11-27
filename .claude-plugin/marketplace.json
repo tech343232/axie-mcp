@@ -1,18 +1,18 @@
 {
-  "name": "axie",
+  "name": "multiapps",
   "owner": {
     "name": "SPACE BLACK"
   },
   "metadata": {
-    "description": "AXIE | Minerador Ofertas Ocultas — En cuestión de minutos tendrás ofertas Winner."
+    "description": "Con solo un botón podrás encontrar ofertas ultra winners, diseñar tus PDFs anti-reembolsos, redactar flujos y generar landings. ¡TODO automatizado usando las apps de SPACE BLACK!"
   },
   "plugins": [
     {
-      "name": "axie",
-      "displayName": "AXIE | Minerador Ofertas Ocultas",
-      "source": "./plugins/axie",
-      "description": "En cuestión de minutos tendrás ofertas Winner.",
-      "version": "3.6.6"
+      "name": "multiapps",
+      "displayName": "CONNECTED | MULTI-APPS",
+      "source": "./plugins/multiapps",
+      "description": "Con solo un botón podrás encontrar ofertas ultra winners, diseñar tus PDFs anti-reembolsos, redactar flujos y generar landings. ¡TODO automatizado usando las apps de SPACE BLACK!",
+      "version": "1.0.0"
     }
   ]
 }

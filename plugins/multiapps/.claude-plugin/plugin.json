@@ -1,0 +1,14 @@
+{
+  "name": "multiapps",
+  "displayName": "CONNECTED | MULTI-APPS",
+  "version": "1.0.0",
+  "description": "Con solo un botón podrás encontrar ofertas ultra winners, diseñar tus PDFs anti-reembolsos, redactar flujos y generar landings. ¡TODO automatizado usando las apps de SPACE BLACK!",
+  "author": {
+    "name": "SPACE BLACK"
+  },
+  "homepage": "https://asta.spaceblack.lat/",
+  "mcpServers": [
+    "./servers/multiapps.mcpb",
+    "./servers/axie.mcpb"
+  ]
+}
