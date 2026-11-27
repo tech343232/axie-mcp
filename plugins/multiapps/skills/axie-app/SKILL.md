@@ -1,5 +1,5 @@
 ---
-name: axie
+name: axie-app
 description: Cómo atender pedidos de AXIE | Minerador Ofertas Ocultas (AXIE va dentro de la extensión Multi-apps de Chrome + herramientas axie_*). Úsala SIEMPRE que el usuario pida buscar ofertas, ofertas winner, páginas de venta, TSL, landings, anunciantes, nichos o palabras clave de anuncios, o mencione AXIE.
 ---
 

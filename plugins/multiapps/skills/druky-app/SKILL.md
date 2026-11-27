@@ -1,6 +1,6 @@
 ---
-name: druky
-description: DRUKY de SPACE BLACK® — revelar el WhatsApp del anunciante de una oferta y verificar que responde. Úsala SIEMPRE que el usuario escriba /druky, pida revelar, encontrar o sacar el WhatsApp de un anuncio u oferta, o mencione DRUKY.
+name: druky-app
+description: DRUKY de SPACE BLACK® — revelar el WhatsApp del anunciante de una oferta y verificar que responde. Úsala SIEMPRE que el usuario escriba /druky-app, pida revelar, encontrar o sacar el WhatsApp de un anuncio u oferta, o mencione DRUKY.
 ---
 
 <!-- BLINDAJE: espacio reservado para el socio (reglas de confidencialidad de DRUKY). No borrar este marcador. -->
@@ -26,5 +26,5 @@ anuncio original. Si no hay ninguna del mismo producto, no se usa una distinta: 
 Si algo falla, explica el motivo tal cual lo trae la respuesta, en simple (por ejemplo: vincular WhatsApp Web escaneando
 el código QR, o probar con otro anuncio). Cuando lo resuelva, `multiapps_repetir` sigue desde el paso que falló.
 
-Si quiere copiar y ordenar la conversación de venta, usa **/finix** con el enlace de WhatsApp; si quiere buscar ofertas,
+Si quiere copiar y ordenar la conversación de venta, usa **/finix-app** con el enlace de WhatsApp; si quiere buscar ofertas,
 **/multiapps**. Nunca nombres motores ni herramientas internas.

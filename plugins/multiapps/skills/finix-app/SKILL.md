@@ -1,6 +1,6 @@
 ---
-name: finix
-description: FINIX de SPACE BLACK® — clonar la conversación de venta de un WhatsApp y ordenarla en etapas. Úsala SIEMPRE que el usuario escriba /finix, pida clonar, copiar o exportar el flujo o la conversación de venta de un WhatsApp, o mencione FINIX.
+name: finix-app
+description: FINIX de SPACE BLACK® — clonar la conversación de venta de un WhatsApp y ordenarla en etapas. Úsala SIEMPRE que el usuario escriba /finix-app, pida clonar, copiar o exportar el flujo o la conversación de venta de un WhatsApp, o mencione FINIX.
 ---
 
 <!-- BLINDAJE: espacio reservado para el socio (reglas de confidencialidad de FINIX). No borrar este marcador. -->
@@ -10,7 +10,7 @@ description: FINIX de SPACE BLACK® — clonar la conversación de venta de un W
 El usuario suele ser **novato**: habla simple y nunca le pidas nada técnico.
 
 1. Pídele el **enlace de WhatsApp** del anunciante (wa.me/…) si no lo pegó. Si solo tiene el anuncio, primero usa
-   **/druky** para revelar el número.
+   **/druky-app** para revelar el número.
 2. Antes de empezar, avísale en una línea: necesita **Google Chrome abierto con WhatsApp Web** (con su WhatsApp vinculado).
    FINIX abre el chat, manda **un saludo** solo si el chat está vacío y espera a que el flujo termine de llegar
    (puede tardar unos minutos). Mientras tanto puede responder él mismo las preguntas del bot en WhatsApp Web.

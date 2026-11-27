@@ -1,6 +1,6 @@
 ---
-name: boker
-description: BOKER de SPACE BLACK® — hacer los PDFs de una oferta (el producto final que recibe el cliente) a partir del enlace de la oferta o de un tema. Úsala SIEMPRE que el usuario escriba /boker, pida clonar o crear los PDFs, el ebook, la guía, el recetario, las tarjetas o los moldes de una oferta, o mencione BOKER.
+name: boker-app
+description: BOKER de SPACE BLACK® — hacer los PDFs de una oferta (el producto final que recibe el cliente) a partir del enlace de la oferta o de un tema. Úsala SIEMPRE que el usuario escriba /boker-app, pida clonar o crear los PDFs, el ebook, la guía, el recetario, las tarjetas o los moldes de una oferta, o mencione BOKER.
 ---
 
 <!-- BLINDAJE: espacio reservado para el socio (reglas de confidencialidad de BOKER). No borrar este marcador. -->

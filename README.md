@@ -16,11 +16,11 @@ Con solo un botón: ofertas ultra winners, PDFs anti-reembolsos, flujos y landin
 
 | Arma | App | Qué hace |
 |---|---|---|
-| **/axie** | AXIE | Busca ofertas ocultas que están funcionando. |
-| **/dumo** | DUMO | Clona landings escaladas y las deja en español. |
-| **/boker** | BOKER | Diseña PDFs dopamínicos anti-reembolsos. |
-| **/druky** | DRUKY | Revela el WhatsApp del anunciante. |
-| **/finix** | FINIX | Entra y replica el flujo de venta. |
+| **/axie-app** | AXIE | Busca ofertas ocultas que están funcionando. |
+| **/dumo-app** | DUMO | Clona landings escaladas y las deja en español. |
+| **/boker-app** | BOKER | Diseña PDFs dopamínicos anti-reembolsos. |
+| **/druky-app** | DRUKY | Revela el WhatsApp del anunciante. |
+| **/finix-app** | FINIX | Entra y replica el flujo de venta. |
 
 💻 Todo funciona en tu computadora: no necesitas pagar APIs extra.
 
@@ -39,7 +39,7 @@ sigue **LEEME-PRIMERO.txt**: trae la extensión de Chrome de Multi-apps (con AXI
 5. Cierra Claude por completo y ábrelo de nuevo.
 6. Abre una sesión de **Cowork** o **Code** en **Esta computadora** y pega este **prompt**. Conecta todo el arsenal:
    ```
-   Conecta CONNECTED | MULTI-APPS: revisa que la extensión de Chrome, mis licencias (AXIE, DUMO, BOKER, DRUKY y FINIX), Claude y ChatGPT estén listos y dime en una lista corta qué está conectado y qué falta. Luego muéstrame mis armas: /multiapps (todo junto) y /axie, /dumo, /boker, /druky y /finix (por separado).
+   Conecta CONNECTED | MULTI-APPS: revisa que la extensión de Chrome, mis licencias (AXIE, DUMO, BOKER, DRUKY y FINIX), Claude y ChatGPT estén listos y dime en una lista corta qué está conectado y qué falta. Luego muéstrame mis armas: /multiapps (todo junto) y /axie-app, /dumo-app, /boker-app, /druky-app y /finix-app (por separado).
    ```
 
 > ¿Usas Claude Code? También puedes instalarlo en un paso escribiendo en una sesión:

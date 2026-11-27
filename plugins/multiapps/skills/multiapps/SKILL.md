@@ -13,10 +13,10 @@ FINIX clonan.
 
 ## Si el usuario ya trae su propia oferta (un enlace)
 /multiapps no la clona. Dile en una línea qué comando usar y no sigas:
-- una landing → **/dumo**
-- los PDFs de la oferta → **/boker**
-- revelar el WhatsApp del anunciante → **/druky**
-- clonar la conversación de venta → **/finix**
+- una landing → **/dumo-app**
+- los PDFs de la oferta → **/boker-app**
+- revelar el WhatsApp del anunciante → **/druky-app**
+- clonar la conversación de venta → **/finix-app**
 
 ## Antes de empezar
 Llama `multiapps_apps`. Si falta algo (extensión de Chrome, Claude o ChatGPT), explícale cómo resolverlo con el mensaje que
