@@ -1,6 +1,6 @@
 # CONNECTED | MULTI-APPS
 
-Con solo un botón: ofertas ultra winners, PDFs anti-reembolsos, flujos y landings. ¡TODO automatizado con SPACE BLACK!
+Con solo un botón: ofertas ultra winners, PDFs anti-reembolsos, flujos y landings. ¡TODO automatizado con las apps de SPACE BLACK!
 
 ## ⚔️ Tu arsenal: 6 armas que funcionan juntas o por separado
 
