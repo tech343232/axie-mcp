@@ -4,14 +4,14 @@
     "name": "SPACE BLACK"
   },
   "metadata": {
-    "description": "Con solo un botón podrás encontrar ofertas ultra winners, diseñar tus PDFs anti-reembolsos, redactar flujos y generar landings. ¡TODO automatizado usando las apps de SPACE BLACK!"
+    "description": "Con solo un botón: ofertas ultra winners, PDFs anti-reembolsos, flujos y landings. ¡TODO automatizado con SPACE BLACK!"
   },
   "plugins": [
     {
       "name": "multiapps",
       "displayName": "CONNECTED | MULTI-APPS",
       "source": "./plugins/multiapps",
-      "description": "Con solo un botón podrás encontrar ofertas ultra winners, diseñar tus PDFs anti-reembolsos, redactar flujos y generar landings. ¡TODO automatizado usando las apps de SPACE BLACK!",
+      "description": "Con solo un botón: ofertas ultra winners, PDFs anti-reembolsos, flujos y landings. ¡TODO automatizado con SPACE BLACK!",
       "version": "1.0.0"
     }
   ]

@@ -2,7 +2,7 @@
 
 # CONNECTED | MULTI-APPS
 
-Con solo un botón podrás encontrar ofertas ultra winners, diseñar tus PDFs anti-reembolsos, redactar flujos y generar landings. ¡TODO automatizado usando las apps de SPACE BLACK!
+Con solo un botón: ofertas ultra winners, PDFs anti-reembolsos, flujos y landings. ¡TODO automatizado con SPACE BLACK!
 
 ## ⚔️ Tu arsenal: 6 armas que funcionan juntas o por separado
 
