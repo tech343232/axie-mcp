@@ -16,8 +16,8 @@ Llama `axie_estado`.
 ## Cuando pida buscar ofertas
 1. **País** (primera pregunta, siempre): pregunta en qué país buscar, sugiriendo **Brasil**. Espera su respuesta.
 2. **Modo** (segunda pregunta, siempre): muestra estas opciones y espera su elección:
-   > **⚡ Modo Express** — investigación ágil de las mejores keywords, entre **1 y 1,5 horas**.
-   > **🔬 Modo Deep** — investigación muy profunda y avanzada, entre **6 y 7 horas**.
+   > **⚡ Modo Express** — investigación ágil de las mejores keywords, entre **1,5 y 2 horas**.
+   > **🔬 Modo Deep** — investigación muy profunda y avanzada, entre **7 y 8 horas**.
    > **🧪 Modo Prueba** — recorrido completo con una muestra chica, en unos **10 minutos** (para comprobar que todo funciona).
    > Puede dejarlo trabajando: solo mantén Chrome abierto y la computadora encendida (que no se suspenda).
 3. Llama `axie_minar_ofertas` con el nicho, el país, el modo y **10 palabras genéricas del nicho escritas en el
